@@ -15,7 +15,8 @@ education:
     "Graduating college in 2 years",
     "Self-taught Front-end Developer",
   }
-company: mstech
+
+current_company: mstech
 
 fields_of_interest:
   [
