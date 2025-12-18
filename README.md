@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello!&type=wave&color=#7F00FF&height=100&section=header&text=capsule%20render&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?text=Hello!&type=soft&color=#7F00FF&height=100&section=header&text=capsule%20render&fontSize=90" />
 </p>
 
 <img src="https://media1.tenor.com/m/Ax96yqr7pcgAAAAC/warframe.gif"/>
