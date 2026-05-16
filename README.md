@@ -29,7 +29,7 @@ technical_background:
     "Currently Intern in Development and Inovation with AI",
   ]
 
-currently_learning: ["Docker", "Kubernetes", and "Java"]
+currently_learning: ["C" and "C++"]
 hobbies: ["Gaming", "Music", "Skateboarding", "Cars"]
 ```
 
