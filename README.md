@@ -11,7 +11,7 @@ current_job: Intern Developer
 education:
   [
     "Graduating college in 2 years",
-    "Self-taught Front-end Developer",
+    "Full-stack developer",
   }
 
 current_company: mstech
