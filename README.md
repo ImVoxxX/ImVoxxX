@@ -30,7 +30,6 @@ technical_background:
   ]
 
 currently_learning: ["C", "C++" and "Competitive programing"]
-hobbies: ["Gaming", "Music", "Skateboarding", "Cars"]
 ```
 
 <h2> Some tools I have learned and used</h2>
