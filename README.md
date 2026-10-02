@@ -10,7 +10,7 @@ located_in: Bauru, São Pauo
 current_job: Intern Developer
 education:
   [
-    "Graduating college in 2 years",
+    "Graduating college in 1 year",
     "Full-stack developer",
   }
 
